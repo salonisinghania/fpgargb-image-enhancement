@@ -62,13 +62,18 @@ Use the waveform viewer to observe enhanced RGB outputs.
 - `ctrl_done` – High when processing is complete
 
 ---
-### Output 
-![Sample 1](img1.png)
--brightness decreased
-![Sample 2](img2.png)
--inverted image
-![Sample 3](img3.png)
--thresholding in image
+### 🖼️ Output
+
+
+![Sample 1](img1.png)  
+*Brightness Decreased*
+
+![Sample 2](img2.png)  
+*Inverted Image*
+
+![Sample 3](img3.png)  
+*Thresholding in Image*
+
 
 
 
