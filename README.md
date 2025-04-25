@@ -77,17 +77,12 @@ Use the waveform viewer to observe enhanced RGB outputs.
 
 
 
-## 🧠 Author & Tools
+##  Tools
 
-- 👩‍💻 **Author**: Saloni Singhania  
+ 
 - 🛠️ **Tools**: Quartus Prime, ModelSim, MATLAB (for image conversion to HEX)
 
 ---
-
-## 📝 License
-
-This project is released for **educational and research purposes**.
-```
 
 
 
